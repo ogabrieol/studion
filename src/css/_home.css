@@ -17,8 +17,6 @@ object-position: center;
 
 .slide__copy {
 position: absolute;
-/* top: 6.25rem; 
-left: 50vw; */
 top: 0;
 left: 0;
 width: 100%;
