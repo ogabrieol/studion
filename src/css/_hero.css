@@ -8,6 +8,7 @@
     position: absolute;
     object-fit: contain;
     object-position: center;
+    height: 100%;
 }
 
 .hero__container {
