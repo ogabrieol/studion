@@ -1,0 +1,59 @@
+.enterprise__copy {
+  padding-left: 4rem;
+  display: grid;
+  grid-template-columns: 1fr 1.5fr;
+  }
+
+.enterprise__text {
+  padding-right: 4.9rem;
+}
+
+.enterprise__copy h3 {
+  margin: 0;
+  padding-top: 8rem;
+  padding-bottom: 3rem;
+  font-weight: 00;
+  font-size: 1.3rem;
+}
+
+.enterprise__copy p {
+  font-weight: 400; 
+  font-size: 1rem;   
+}
+
+.apresentation__image {
+  align-items: center;
+  position: absolute;
+  margin-left: -1rem;
+  margin-top: 8.6rem;
+  max-width: 40rem;
+  }
+
+.enterprise__clients {
+    background-color: var(--color-primary);
+  }
+
+.enterprise__clients-copy h3 {
+  margin: 0;
+  padding-top: 4.25rem;
+  padding-bottom: 3.5rem;
+  text-align: center;
+  font-size: 1.5625rem;
+}
+
+.enterprise__video {
+  height: 50rem;
+}
+
+.video__enterprise {
+  padding-top: 5rem;
+  justify-content: center;
+}
+
+.video {
+  margin-top: 5rem;
+  margin-left:3rem;
+}
+
+
+
